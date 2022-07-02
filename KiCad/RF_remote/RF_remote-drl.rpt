@@ -1,0 +1,24 @@
+Drill report for /media/ssd/KiCad/RF_remote/RF_remote/RF_remote.kicad_pcb
+Created on 19.01.2022 (ср)  9:48:29
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'RF_remote-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,800mm  0,0315"  (16 holes)
+    T2  1,000mm  0,0394"  (9 holes)
+    T3  1,100mm  0,0433"  (5 holes)
+
+    Total plated holes count 30
+
+
+Drill file 'RF_remote-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
